@@ -28,7 +28,7 @@ The solution analyses a repository which contains various images belonging to fo
 
 ## Conclusions
 1. With the  first model, we got an overfitted model with training accuracy upto 86% while validation  accuracy at ~53% only.
-2. For the Second model, we tried data augmentation and using ImageDataGenerator we observed some  dicrease in overall accuracy for both train and validation  dataset.
+2. For the Second model, we tried data augmentation and using ImageDataGenerator we observed some  decrease in overall accuracy for both train and validation  dataset.
 3. We treated class imbalances in the training dataset and with that we were able to get rid of  both Overfitting and Underfitting of the model  and the  overall efficiencies of the model surged to  ~95% for training and 84% for validation. 
 
 ## Technologies Used
